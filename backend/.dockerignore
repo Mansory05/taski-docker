@@ -1,0 +1,4 @@
+# Файл .dockerignor
+venv
+.git
+db.sqlite3
